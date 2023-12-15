@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science and MERN STACK Projects
 - 📫 How to reach me -
   🌐 https://www.linkedin.com/in/jpunit881/ || 
-  ✉️ punit16102001@gmail.com
+  📧 punit16102001@gmail.com
 
 <!---
 jpunit881/jpunit881 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
